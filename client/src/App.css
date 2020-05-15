@@ -14,6 +14,15 @@
   margin: 0;
   padding: 0;
 }
+p { 
+            text-align: justify; 
+            font-size: 20px;
+            font-family:Courier New; 
+        }
+img { 
+      float: left;  
+      margin: 5px; 
+    } 
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -253,6 +262,7 @@ img {
 .alert-dark {
   background: var(--dark-color);
   color: #fff;
+  height:320px
 }
 
 .btn-danger,
