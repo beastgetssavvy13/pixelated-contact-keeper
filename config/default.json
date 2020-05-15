@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kavish123:sAYURIPANDIT123@cluster0-op3bk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "1234getout"
+}
