@@ -14,7 +14,7 @@ Full stack MERN contact manager with React hooks, context & JWT authentication.<
 
 
 ## Technologies Used: 
-VS STUDIO | POSTMAN | MONGODBATLAS | HEROKU <br>
+:electric_plug: VS STUDIO :electric_plug: POSTMAN :electric_plug: MONGODBATLAS :electric_plug: HEROKU <br>
 
 
 ## Usage
