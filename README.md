@@ -9,7 +9,7 @@ Link: https://pixelated-coder-keeper-app.herokuapp.com/login
 Full stack MERN contact manager with React hooks, context & JWT authentication.<br>
 <br>
 
-<img src="https://github.com/beastgetssavvy13/wfh-it-logger-app/blob/master/images/1.JPG"/>
+<img src="https://github.com/beastgetssavvy13/pixelated-contact-keeper/blob/master/client/Cap.JPG"/>
 <br>
 
 
