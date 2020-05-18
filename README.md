@@ -1,6 +1,9 @@
 ><h3>Pixelated-contact-keeper</h3>
-MERN Contact Keeper App | Visit  Deployed  App on Heroku
-# <h2>Contact Keeper</h2>
+MERN Contact Keeper App :man_technologist: | Visit  Deployed  App on Heroku<br>
+Link: https://pixelated-coder-keeper-app.herokuapp.com/login
+
+# <h2>Contact Keeper :ledger:</h2>
+
 Full stack MERN contact manager with React hooks, context & JWT authentication.
 
 ## Usage
