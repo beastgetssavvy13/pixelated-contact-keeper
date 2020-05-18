@@ -7,12 +7,6 @@ Link: https://pixelated-coder-keeper-app.herokuapp.com/login
 
 Full stack MERN contact manager with React hooks, context & JWT authentication.<br>
 
-## Developer: 
-Kavish Pandit <br>
-
-
-## Email: 
-kavish.pandit178@gmail.com <br>
 
 ## Technologies Used: 
 VS STUDIO | POSTMAN | MONGODBATLAS | HEROKU <br>
