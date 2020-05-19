@@ -3,7 +3,6 @@
 > Contributor : Kavish Pandit 
 
 MERN Contact Keeper App | Visit  Deployed  App on Heroku<br><br>
-
 Link: https://pixelated-coder-keeper-app.herokuapp.com/login
 
 # <h2>Contact Keeper :ledger:</h2>
