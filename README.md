@@ -1,6 +1,6 @@
+## The Pixelated Coder  :man_technologist:
 
-<h3>Pixelated-contact-keeper :man_technologist:</h3>
-><i> Developer Kavish Pandit :man_in_tuxedo:	</i>
+> Contributor : Kavish Pandit 
 
 MERN Contact Keeper App | Visit  Deployed  App on Heroku<br><br>
 
