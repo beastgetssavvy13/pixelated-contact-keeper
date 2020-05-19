@@ -1,5 +1,7 @@
-><i> Created by Pixelated Coder :man_in_tuxedo:	</i>
+
 <h3>Pixelated-contact-keeper :man_technologist:</h3>
+><i> Developer Kavish Pandit :man_in_tuxedo:	</i>
+
 MERN Contact Keeper App | Visit  Deployed  App on Heroku<br><br>
 
 Link: https://pixelated-coder-keeper-app.herokuapp.com/login
