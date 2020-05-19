@@ -47,10 +47,10 @@ Some of the functions of this project are
 - [X] ~~User signup~~
 - [X] ~~User login~~
 - [X] ~~Forgot Password~~
-- [X] ~~To-do list saving~~
-- [X] ~~To-do list retrieval~~
-- [X] ~~To-do list updates (addition/deletion)~~
-- [X] ~~Public and Private list~~
+- [X] ~~Edit Contact saving~~
+- [X] ~~Edit track retrieval~~
+- [X] ~~Update List (addition/deletion)~~
+- [X] ~~Professional and Personal list~~
 - [X] ~~Contact Sharing (collaborate)~~
 
 
