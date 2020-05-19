@@ -37,5 +37,29 @@ npm run dev     # Express & React :3000 & :5000
 npm run server  # Express API Only :5000
 npm run client  # React Client Only :3000
 ```
+
+### Objectives
+
+Some of the functions of this project are 
+
+- [X] ~~User signup~~
+- [X] ~~User login~~
+- [X] ~~Forgot Password~~
+- [X] ~~To-do list saving~~
+- [X] ~~To-do list retrieval~~
+- [X] ~~To-do list updates (addition/deletion)~~
+- [X] ~~Public and Private list~~
+- [X] ~~Contact Sharing (collaborate)~~
+
+
+### Environment variables in .env
+
+| Variable | Description |
+|:--------:|:------------:|
+| SECRET | JWT secret |
+| SALT | Hash salt |
+| MONGO_URI | MongoDB URI |
+| EMPASSWORD | Email password |
+
 ## Description: 
 Created an application using React Hooks and Express Js Server. Feel free to reach out if any issues :raised_hands:
