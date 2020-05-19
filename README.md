@@ -59,7 +59,6 @@ Some of the functions of this project are
 | Variable | Description |
 |:--------:|:------------:|
 | SECRET | JWT secret |
-| SALT | Hash salt |
 | MONGO_URI | MongoDB URI |
 | EMPASSWORD | Email password |
 
