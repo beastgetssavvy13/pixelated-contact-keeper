@@ -1,6 +1,6 @@
 ><i> Created by Pixelated Coder :man_in_tuxedo:	</i>
-<h3>Pixelated-contact-keeper</h3>
-MERN Contact Keeper App :man_technologist: | Visit  Deployed  App on Heroku<br><br>
+<h3>Pixelated-contact-keeper :man_technologist:</h3>
+MERN Contact Keeper App | Visit  Deployed  App on Heroku<br><br>
 
 Link: https://pixelated-coder-keeper-app.herokuapp.com/login
 
